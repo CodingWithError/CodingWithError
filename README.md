@@ -16,10 +16,8 @@
 
 - ⚡ Fun fact **Fun 😅**
 <p align="center">
-  <iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="269" style="max-width: 100%;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  <p align="center"><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
+  <img alt="Coding" width="400" src="[https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl4c25oanhuanhzaTZkY2FidjNtd25zc2g0OGhpbnozdGQyaDUzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCkbgKLdLWq3OCV8YM/giphy.gif)">
 </p>
-
 
 
 <h3 align="left">Connect with me:</h3>
