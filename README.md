@@ -2,8 +2,6 @@
 <h3 align="center">I am a passionate coder</h3>
 <img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingwitherror&label=Profile%20views&color=0e75b6&style=flat" alt="codingwitherror" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingwitherror" alt="codingwitherror" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/v_shravanth2004" target="blank"><img src="https://img.shields.io/twitter/follow/v_shravanth2004?logo=twitter&style=for-the-badge" alt="v_shravanth2004" /></a> </p>
