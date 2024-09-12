@@ -14,11 +14,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MV8g9VrR9SjR_wY_INaKATPNQCo_v7-B/view?usp=sharing](https://drive.google.com/file/d/1MV8g9VrR9SjR_wY_INaKATPNQCo_v7-B/view?usp=sharing)
 
-- ⚡ Fun fact
+- ⚡ Fun fact **Fun 😅**
 <p align="center">
-  <img alt="Coding" width="400" src="[https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif](https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b7611sopre12uwoe9y5qdaft9ldteupnci8j03j9394h0&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+  <iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="269" style="max-width: 100%;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p align="center"><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
 </p>
-**fun 😅**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
