@@ -15,9 +15,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MV8g9VrR9SjR_wY_INaKATPNQCo_v7-B/view?usp=sharing](https://drive.google.com/file/d/1MV8g9VrR9SjR_wY_INaKATPNQCo_v7-B/view?usp=sharing)
 
 - ⚡ Fun fact **Fun 😅**
-<p align="center">
-  <img alt="Coding" width="400" src="[https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl4c25oanhuanhzaTZkY2FidjNtd25zc2g0OGhpbnozdGQyaDUzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCkbgKLdLWq3OCV8YM/giphy.gif)">
-</p>
 
 
 <h3 align="left">Connect with me:</h3>
