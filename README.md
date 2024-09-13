@@ -8,8 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/v_shravanth2004" target="blank"><img src="https://img.shields.io/twitter/follow/v_shravanth2004?logo=twitter&style=for-the-badge" alt="v_shravanth2004" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [my-portfolio-two-ochre-79.vercel.app/](my-portfolio-two-ochre-79.vercel.app/)
-
+- 👨‍💻 All of my projects are available at [my portfolio](https://my-portfolio-two-ochre-79.vercel.app/)
+  
 - 📫 How to reach me **vshravanth2004@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MV8g9VrR9SjR_wY_INaKATPNQCo_v7-B/view?usp=sharing](https://drive.google.com/file/d/1MV8g9VrR9SjR_wY_INaKATPNQCo_v7-B/view?usp=sharing)
