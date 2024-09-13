@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Coding" width="400" src="[https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif](https://pin.it/61GrTzbQL)">
+  <img alt="Coding" width="400" src="https://pin.it/61GrTzbQL">
 </p>
 
 <h1 align="center">Hi 👋, I'm Shravanth</h1>
