@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="Coding" width="600" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
-</p>
-
 <h1 align="center">Hi 👋, I'm Shravanth</h1>
 <h3 align="center">I am a passionate coder</h3>
 <p align="center">
