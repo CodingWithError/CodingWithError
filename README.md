@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://my-portfolio-two-ochre-79.vercel.app/)
   
-- 📫 How to reach me **vshravanth2004@gmail.com**
+- 📫 How to reach me [Mail](**vshravanth2004@gmail.com**)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MV8g9VrR9SjR_wY_INaKATPNQCo_v7-B/view?usp=sharing)
 
