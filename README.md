@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shravanth</h1>
 <h3 align="center">I am a passionate coder</h3>
 <p align="center">
-  <img alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
+  <img alt="Coding" width="600" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingwitherror" alt="codingwitherror" /></a> </p>
