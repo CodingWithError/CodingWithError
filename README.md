@@ -12,7 +12,7 @@
   
 - 📫 How to reach me **vshravanth2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MV8g9VrR9SjR_wY_INaKATPNQCo_v7-B/view?usp=sharing](https://drive.google.com/file/d/1MV8g9VrR9SjR_wY_INaKATPNQCo_v7-B/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MV8g9VrR9SjR_wY_INaKATPNQCo_v7-B/view?usp=sharing)
 
 - ⚡ Fun fact **Fun 😅**
 
