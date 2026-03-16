@@ -25,49 +25,35 @@ I like **shipping fast, then refactoring hard.**
 
 # Tech Stack
 
-| Languages | Frameworks |
-|-----------|------------|
-| Java | Node.js |
-| JavaScript | Express.js |
-| TypeScript | React.js |
-| Python | Next.js |
-|  | Spring Boot |
+### Languages
+Java • JavaScript • TypeScript • Python
 
----
+### Frameworks
+Node.js • Express.js • React.js • Next.js • Spring Boot
 
-| AI & LLM Systems | AI Models & AI Tools |
-|------------------|----------------------|
-| RAG Pipelines | OpenAI |
-| Embeddings | Claude |
-| Prompt Engineering | Gemini |
-| AI Agents | Llama |
-| Context Management | Cursor |
-| LLM Workflow Optimization | LangChain |
-| Text Summarization | Vector Databases |
-| Chat Server Architecture | Prompt Systems |
+### Mobile Development
+React Native • Expo • Flutter • Android Development
 
----
+### AI and LLM Systems
+RAG • Embeddings • Prompt Engineering  
+LLM Workflow Optimization • Text Summarization  
+AI Agents • Context Management  
+Chat Server Architecture • Retrieval Systems
 
-| Mobile Development | Databases |
-|--------------------|----------|
-| React Native | MySQL |
-| Expo | MongoDB |
-| Flutter | PostgreSQL |
-| Android Development | Firebase Realtime DB |
-| Mobile AI Apps | Cloudflare R2 |
+### AI Models
+OpenAI • Claude • Gemini • Llama
 
----
+### AI Development Tools
+Cursor • Claude Code • LangChain • Vector Databases
 
-| Infrastructure | Developer Tools |
-|---------------|----------------|
-| REST APIs | GitHub |
-| Backend Systems | Docker |
-| Distributed Services | Firebase |
-| Cloud Storage | Cloudflare |
-| Server Architecture | VS Code |
-| API Design | Postman |
-| System Integration | Android Studio |
-| Linux | Git |
+### Databases and Infra
+MySQL • MongoDB • PostgreSQL  
+Firebase Realtime DB • Cloudflare R2
+
+### Tools
+GitHub • Docker • Firebase • Cloudflare  
+VS Code • Postman • Android Studio  
+Git • Linux • API Design
 
 ---
 
@@ -78,4 +64,4 @@ I like **shipping fast, then refactoring hard.**
 • Fast backend architectures  
 • Developer tools  
 • Scalable AI infrastructure  
-• AI agents and intelligent systems  
+• AI agents and intelligent systems
